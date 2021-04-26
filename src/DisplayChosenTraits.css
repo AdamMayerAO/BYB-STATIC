@@ -1,0 +1,14 @@
+.traits-list{
+        display: flex; 
+        justify-content: space-around;
+        flex-wrap: wrap;
+    
+}
+.chosen{
+    text-align: center;
+}
+.reset {
+    align-items: center;
+    height: 40px;
+    width: 300px;
+}
